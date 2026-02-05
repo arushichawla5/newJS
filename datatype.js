@@ -13,3 +13,4 @@ console.log(typeof age)
 console.log(typeof isLoggegIn)  
 console.log(typeof null)
 console.log(typeof undefined)
+console.log(age);
