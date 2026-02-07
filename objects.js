@@ -74,4 +74,19 @@ console.log(Object.values(hingeUser))
 console.log(Object.entries(hingeUser))
 console.log(hingeUser.hasOwnProperty('name'))
 
-   
+const course = {
+    courseName : "js",
+    price : 999,
+    courseInstructor : "hitesh"
+}
+
+const {courseInstructor : instructor} = course //destrcting   
+console.log(instructor)
+
+// {
+//     name: "hitesh",
+//     courseName: "java", //JASON
+//     price:"free"
+// }
+
+
