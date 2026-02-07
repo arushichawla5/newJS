@@ -88,5 +88,3 @@ console.log(instructor)
 //     courseName: "java", //JASON
 //     price:"free"
 // }
-
-
